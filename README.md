@@ -112,7 +112,8 @@ python analysis.py --outdir analysis --prefer_masks
 - `rewind_analysis_results.csv`  
 - `per_layer_results.csv`  
 - Histograms: degree, clustering, abs weights, log abs weights  
-- Graph visualisations: largest connected component  
+- Graph visualisations: largest connected component 
+- One Plot.ipynb file to plot traing results of EG and GD
 
 ---
 
